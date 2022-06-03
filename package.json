@@ -9,7 +9,7 @@
     "zone.js": "0.9.1",
     "@types/node": "8.9.5",
     "@angular/cdk": "8.0.2",
-    "@angular/core": "8.1.1",
+    "@angular/core": "11.0.5",
     "nebular-icons": "1.1.0",
     "@angular/forms": "8.1.1",
     "@nebular/theme": "4.1.1",
